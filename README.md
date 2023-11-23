@@ -5,8 +5,6 @@
 
 🎓 I study Cross-platform software development at FATEC OSASCO
 
-### Eu já trabalhei com... 🔧
-
 **Tecnologias e Ferramentas**
 
 
