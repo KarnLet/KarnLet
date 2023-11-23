@@ -5,7 +5,7 @@
 
 💻 I´m a Front-End Developer
 
-🎓 I study Cross-platform software development at FATEC OSASCO]
+🎓 I study Cross-platform software development at FATEC OSASCO
 
 ### Eu já trabalhei com... 🔧
 
