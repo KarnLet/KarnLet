@@ -1,7 +1,5 @@
-### Hi there!
+# Hi there!
 # I´m Karen Leticia 👋
-
-### Sobre mim
 
 💻 I´m a Front-End Developer
 
